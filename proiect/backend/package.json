@@ -1,0 +1,31 @@
+{
+  "name": "proiecttehweb",
+  "version": "1.0.0",
+  "description": "proiect bibliografii",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreeaadm1408/proiectTehWeb.git"
+  },
+  "keywords": [
+    "api",
+    "author",
+    "cite"
+  ],
+  "author": "andreeaadam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreeaadm1408/proiectTehWeb/issues"
+  },
+  "homepage": "https://github.com/andreeaadm1408/proiectTehWeb#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mysql2": "^1.5.1",
+    "nodeadmin": "^0.1.2",
+    "sequelize": "^4.31.1"
+  }
+}
